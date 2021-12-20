@@ -3,3 +3,4 @@
 * And 게이트
 * Nand 게이트
 * OR 게이트
+<img width = "80%" src = "https://user-images.githubusercontent.com/88581095/146795078-05dd1878-e1fd-4a74-8e85-ba1076c2fad5.png"/>
